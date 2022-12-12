@@ -1,0 +1,9 @@
+debug=true,
+sep="  ",
+nrows=2,
+header=0,
+footer=0,
+suffix=None,
+filler="NA",
+decimal=".",
+thousands=false
