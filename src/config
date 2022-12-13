@@ -1,10 +1,10 @@
 debug=true,
-sep="  ",
+sep="(\s)+",
 nrows=2,
 header=0,
 footer=0,
-prefix=None,
+prefix="\s",
 suffix=None,
 filler="NA",
 decimal=".",
-thousands=false
+thousands=None
